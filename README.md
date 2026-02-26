@@ -1,5 +1,7 @@
 # AS5048B Breakout Board
 <img src="https://hackatime-badge.hackclub.com/U097J2YPW1H/as5048-breakout"/>
+![PCB Render](images/pcb-render.png)
+
 
 > [!NOTE]
 > This is a breakout for the AS5048B not AS5048A board i.e. this is a breakout for the I²C version.
