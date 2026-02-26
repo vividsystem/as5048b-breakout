@@ -14,7 +14,7 @@
 ## Usage
 ### Choosing the correct magnet
 * 6-8mm diameter
-* >= 2.5mm height
+* \>= 2.5mm height
 * diametric
 
 ### Magnet Placement
