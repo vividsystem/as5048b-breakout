@@ -11,7 +11,7 @@
 - I²C High Speed at 3.4MHz clock frequency
 - easy hand-assembly
 - JST SM04B-SRSS (SH series) connector for easy connections
-(SparkFun Qwiic/Adafruit STEMMA QT compatible)
+(SparkFun Qwiic/Adafruit STEMMA QT/Arduino Modulino compatible)
 
 ## Usage
 ### Choosing the correct magnet
